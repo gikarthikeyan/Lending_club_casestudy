@@ -1,28 +1,25 @@
-# Project Name
+# Lending Club Case study
 > Outline a brief description of your project.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [General Info](#Exploratory data analysis case study)
+* [Technologies Used](#Python, Matplotlib, Seaborn)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Do an extensive EDA like univariate, bivariate and multivariate to indentify the customer pattern that are prone to charge-off?
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Customer already with high debt or dti > 20% are prone to default
+- Higher the interest rate higerthe default %
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
